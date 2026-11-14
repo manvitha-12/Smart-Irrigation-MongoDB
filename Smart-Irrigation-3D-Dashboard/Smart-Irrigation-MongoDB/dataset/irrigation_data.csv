@@ -1,0 +1,7 @@
+farm_id,farm_name,location,crop,soil_moisture,temperature,humidity,rainfall,water_usage,irrigation_status
+101,Green Valley Farm,Andhra Pradesh,Rice,25,35,45,2,120,Required
+102,Sunrise Farm,Telangana,Cotton,70,29,65,15,50,Not Required
+103,Green Earth Farm,Karnataka,Wheat,35,32,50,3,80,Required
+104,Golden Harvest Farm,Andhra Pradesh,Maize,55,30,60,8,60,Not Required
+105,Nature Farm,Tamil Nadu,Sugarcane,20,36,40,1,120,Required
+106,Fresh Crop Farm,Kerala,Rice,80,27,75,20,40,Not Required
